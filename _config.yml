@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: readyact.github.io
+url: https://readyact.github.io
 date_format: "ordinal"
 title: R Studio
 subtitle: "Microsoft saves the world"
