@@ -6,7 +6,7 @@ description:
 keywords: Windows 10, rotate screen
 ---
 
-软件网址：http://noeld.com/programs.asp#Display
-软件名称：Display
+软件网址：http://noeld.com/programs.asp#Display 
+软件名称：Display 
 使用方式：自行查阅软件说明
 
