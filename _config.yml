@@ -7,7 +7,7 @@ date_format: "ordinal"
 title: R Studio
 subtitle: "Microsoft saves the world"
 description: "随便写写"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+keywords: readyact, photonics
 timezone: America/New_York
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,11 +15,11 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: George Xu
+author: R
 organization: University of Rochester
-organization_url: http://photonlab.hajim.rochester.edu/
+organization_url: https://www.rochester.edu/
 github_username: readyact
-location: Wuhan, China
+location: Rochester, NY
 email: lumiabrick@gmail.com
 
 # ---------------- #
